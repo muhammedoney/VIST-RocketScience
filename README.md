@@ -4,7 +4,7 @@ Bu repo Vist Roketinin aviyonik yazılımlarını içermekte ve ilgili döküman
 
 Yazılım ve donanım için yürütülecek test süreci aşağıdaki gibidir
 1. Standart donanım ile range testi\n
-GPS anteni oryantasyon testi\n
+GPS anteni oryantasyon testi/n
 GPS doğruluk testi\n
 Haberleşme anteni oryantasyon testi
 2. Aluminyum govde etkisi testi\n

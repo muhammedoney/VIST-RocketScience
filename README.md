@@ -13,5 +13,3 @@ Cam fiber gövde etkisi testi
 4. Network yazılım testi
 Network yazılımı ile range artışının testi
 5. Yönlendirilmiş anten ile range testi
-6. 
-
